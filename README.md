@@ -1,2 +1,2 @@
 # barba
-site de arendizagem
+Pagina comercial para aprendizagem.
